@@ -3,7 +3,7 @@ import os
 # Get the folder the script is in
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
-input_path = os.path.join(script_dir, "sample_geometry.TXT")
+input_path = os.path.join(script_dir, "sample_geometry.TXT") #--> File will be updated 
 output_path = os.path.join(script_dir, "SN5_Global_Variables_front.txt")
 
 def make_safe_variable_name(label):
@@ -47,5 +47,6 @@ try:
     print("✅ Done! File created:", output_path)
 except Exception as e:
     print("❌ Error occurred:", e)
+
 
 input("\nPress Enter to close...")
