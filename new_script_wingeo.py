@@ -5,8 +5,8 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Input files
 input_files = {
-    "Front": os.path.join(script_dir, "sample_geometry_front.TXT"), ## Takes two files 
-    "Rear": os.path.join(script_dir, "sample_geometry_rear.TXT")
+    "Front": os.path.join(script_dir, "SN5-front (1).TXT"),
+    "Rear": os.path.join(script_dir, "SN5-rear (1).TXT")
 }
 
 # Single combined output file
@@ -42,8 +42,14 @@ def parse_and_write_solidworks_globals(input_files, output_file):
                     if not label:
                         label = f"unnamed_point_{idx}"
 
-                    # Prepend Front/Rear prefix and make safe
-                    safe_label = make_safe_variable_name(f"{prefix}_{label}")
+                    # Conditionally apply prefix only for 'Rear'
+                    if prefix == "Rear":
+                        full_label = f"{prefix}_{label}"
+                    else:
+                        full_label = label
+
+                    # Make safe variable name
+                    safe_label = make_safe_variable_name(full_label)
                     coordinates[safe_label] = {'x': x_val, 'y': y_val, 'z': z_val}
 
     # Write all variables to output file
@@ -61,10 +67,3 @@ except Exception as e:
     print("❌ Error occurred:", e)
 
 input("\nPress Enter to close...")
-
-##Practice changes to see if this will show up in GitHub
-
-##Hopefully these show up on the practice branch.
-
-#Alright lets hope this shows up in Vs Code
-
