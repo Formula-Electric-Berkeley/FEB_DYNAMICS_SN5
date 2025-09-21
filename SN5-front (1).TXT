@@ -1,13 +1,13 @@
-O_GEOMTY  PrintFile   C:\Users\Evan Griffith\VD---Berkeley-Formula-Electric\SN5-front (1).GEM
-          OriginalFN  C:\Users\Evan Griffith\VD---Berkeley-Formula-Electric\SN5-front (1).GEM
+O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (1).GEM
+          OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (1).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 9/14/2025 2:26:53 PM
+          Date & Time 9/21/2025 2:19:22 PM
 Rotation Point:
  97 X=     0.000 Y=     0.000 Z=     0.000 Rotation Point                
  
 Right side points:
   0 X=     0.000 Y=     0.000 Z=     0.000 Origin coordinate system    O 
-  1 X=   138.937 Y=   227.626 Z=   129.567 Lower A-arm forward         A 
+  1 X=   138.937 Y=   227.625 Z=   129.567 Lower A-arm forward         A 
   2 X=     3.763 Y=   562.970 Z=   108.473 Lower ball joint            B 
   3 X=  -150.000 Y=   227.626 Z=   154.379 Lower A-arm rearward        C 
   4 X=   106.627 Y=   266.244 Z=   285.115 Upper A-arm forward         D 
@@ -40,7 +40,7 @@ Right side auxiliary points:
  36 X=    -3.465 Y=   247.594 Z=   108.426 Anti-roll bar attach        R Want_Rollbar
  
 Left side points:
-101 X=   138.937 Y=   227.626 Z=   129.567 Lower A-arm forward         A 
+101 X=   138.937 Y=   227.625 Z=   129.567 Lower A-arm forward         A 
 102 X=     3.763 Y=   562.970 Z=   108.473 Lower ball joint            B 
 103 X=  -150.000 Y=   227.626 Z=   154.379 Lower A-arm rearward        C 
 104 X=   106.627 Y=   266.244 Z=   285.115 Upper A-arm forward         D 
