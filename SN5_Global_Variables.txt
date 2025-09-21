@@ -20,7 +20,7 @@
 "Hub_center_extension_Y" = 603.227mm
 "Hub_center_extension_Z" = 203.236mm
 "Lower_Aarm_forward_X" = 138.937mm
-"Lower_Aarm_forward_Y" = 227.626mm
+"Lower_Aarm_forward_Y" = 227.625mm
 "Lower_Aarm_forward_Z" = 129.567mm
 "Lower_Aarm_rearward_X" = -150.0mm
 "Lower_Aarm_rearward_Y" = 227.626mm
