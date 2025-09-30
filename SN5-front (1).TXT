@@ -1,75 +1,75 @@
-O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (1).GEM
-          OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (1).GEM
+O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
+          OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 9/21/2025 2:19:22 PM
+          Date & Time 9/30/2025 11:20:59 AM
 Rotation Point:
- 97 X=     0.000 Y=     0.000 Z=     0.000 Rotation Point                
+ 97 X=     0.000 Y=    15.000 Z=     0.000 Rotation Point                
  
 Right side points:
   0 X=     0.000 Y=     0.000 Z=     0.000 Origin coordinate system    O 
-  1 X=   138.937 Y=   227.625 Z=   129.567 Lower A-arm forward         A 
-  2 X=     3.763 Y=   562.970 Z=   108.473 Lower ball joint            B 
-  3 X=  -150.000 Y=   227.626 Z=   154.379 Lower A-arm rearward        C 
-  4 X=   106.627 Y=   266.244 Z=   285.115 Upper A-arm forward         D 
-  5 X=    -3.763 Y=   550.692 Z=   297.927 Upper ball joint            E 
-  6 X=  -125.000 Y=   266.244 Z=   264.982 Upper A-arm rearward        F 
+  1 X=   138.937 Y=   242.626 Z=   100.888 Lower A-arm forward         A 
+  2 X=     3.763 Y=   577.970 Z=   108.473 Lower ball joint            B 
+  3 X=  -150.000 Y=   242.626 Z=   125.700 Lower A-arm rearward        C 
+  4 X=   106.627 Y=   281.244 Z=   257.869 Upper A-arm forward         D 
+  5 X=    -3.763 Y=   565.692 Z=   297.927 Upper ball joint            E 
+  6 X=  -125.000 Y=   281.244 Z=   237.736 Upper A-arm rearward        F 
  
-  8 X=    57.861 Y=   491.209 Z=   146.206 Steering tie-rod on hub     S 
-  9 X=    33.020 Y=   182.880 Z=   147.320 Steering tie-rod inboard    T 
- 10 X=     0.000 Y=   598.227 Z=   203.193 Hub center                  H 
- 11 X=     0.000 Y=   603.227 Z=   203.236 Hub center extension        K 
- 12 X=     0.000 Y=   600.000 Z=     0.000 Static contact/Locked wheel N 
- 13 X=     0.000 Y=   600.000 Z=     0.000 Contact point                 
+  8 X=    57.861 Y=   506.209 Z=   125.173 Steering tie-rod on hub     S 
+  9 X=    33.020 Y=   197.880 Z=   125.173 Steering tie-rod inboard    T 
+ 10 X=     0.000 Y=   613.227 Z=   203.193 Hub center                  H 
+ 11 X=     0.000 Y=   618.227 Z=   203.236 Hub center extension        K 
+ 12 X=     0.000 Y=   615.000 Z=     0.000 Static contact/Locked wheel N 
+ 13 X=     0.000 Y=   615.000 Z=     0.000 Contact point                 
  
 O_GEOMTY  Right side Track and other variables
-Track       1200.000   Tire_Diam    406.401   Rim_Width    177.800
+Track       1230.000   Tire_Diam    406.401   Rim_Width    177.800
 Camber        -0.500   Toe degs       0.000   Toe inch       0.000
 Tire bottom X     0.000Tire Bottom Z     0.000
 Wheelbase   1592.000   Offset         0.000
  
 Right side auxiliary points:
- 27 X=    -4.523 Y=    50.000 Z=   525.000 Spring upper on CHASSIS     U Want Spring
- 28 X=    -4.523 Y=   200.000 Z=   600.000 Spring lower on SUSPENSION  V Want Spring
- 29 X=     8.177 Y=   245.000 Z=   560.000 Pivot axis one              P 
- 30 X=   -17.223 Y=   245.000 Z=   560.000 Pivot axis two              Q 
- 31 X=    -4.523 Y=   275.000 Z=   600.000 Push/Pull rod pivot         M 
- 32 X=    -4.523 Y=   500.000 Z=   325.000 Push/Pull rod attach        W 
- 33 X=   -48.465 Y=   247.594 Z=   175.127 Anti-roll bar axis          X Want_Rollbar
- 34 X=   -48.465 Y=     0.000 Z=   175.127 Anti-roll bar mid-point     Y Want_Rollbar
- 35 X=    -3.465 Y=   247.594 Z=   175.127 Anti-roll bar blade         Z Want_Rollbar
- 36 X=    -3.465 Y=   247.594 Z=   108.426 Anti-roll bar attach        R Want_Rollbar
+ 27 X=    -4.523 Y=    45.000 Z=   565.000 Spring upper on CHASSIS     U Want Spring
+ 28 X=    -4.523 Y=   215.000 Z=   635.000 Spring lower on SUSPENSION  V Want Spring
+ 29 X=     8.177 Y=   240.000 Z=   570.000 Pivot axis one              P 
+ 30 X=   -17.223 Y=   240.000 Z=   570.000 Pivot axis two              Q 
+ 31 X=    -4.523 Y=   295.000 Z=   605.000 Push/Pull rod pivot         M 
+ 32 X=    -4.523 Y=   515.000 Z=   325.000 Push/Pull rod attach        W 
+ 33 X=    73.000 Y=   260.000 Z=   470.000 Anti-roll bar axis          X Want_Rollbar
+ 34 X=    73.000 Y=    15.000 Z=   470.000 Anti-roll bar mid-point     Y Want_Rollbar
+ 35 X=    -3.465 Y=   280.000 Z=   470.000 Anti-roll bar blade         Z Want_Rollbar
+ 36 X=    -3.465 Y=   280.000 Z=   560.000 Anti-roll bar attach        R Want_Rollbar
  
 Left side points:
-101 X=   138.937 Y=   227.625 Z=   129.567 Lower A-arm forward         A 
-102 X=     3.763 Y=   562.970 Z=   108.473 Lower ball joint            B 
-103 X=  -150.000 Y=   227.626 Z=   154.379 Lower A-arm rearward        C 
-104 X=   106.627 Y=   266.244 Z=   285.115 Upper A-arm forward         D 
-105 X=    -3.763 Y=   550.692 Z=   297.927 Upper ball joint            E 
-106 X=  -125.000 Y=   266.244 Z=   264.982 Upper A-arm rearward        F 
+101 X=   138.937 Y=   242.626 Z=   100.888 Lower A-arm forward         A 
+102 X=     3.763 Y=   577.970 Z=   108.473 Lower ball joint            B 
+103 X=  -150.000 Y=   242.626 Z=   125.700 Lower A-arm rearward        C 
+104 X=   106.627 Y=   281.244 Z=   257.869 Upper A-arm forward         D 
+105 X=    -3.763 Y=   565.692 Z=   297.927 Upper ball joint            E 
+106 X=  -125.000 Y=   281.244 Z=   237.736 Upper A-arm rearward        F 
  
-108 X=    57.861 Y=   491.209 Z=   146.206 Steering tie-rod on hub     S 
-109 X=    33.020 Y=   182.880 Z=   147.320 Steering tie-rod inboard    T 
-110 X=     0.000 Y=   598.227 Z=   203.193 Hub center                  H 
-111 X=     0.000 Y=   603.227 Z=   203.236 Hub center extension        K 
-112 X=     0.000 Y=   600.000 Z=     0.000 Static contact/Locked wheel N 
-113 X=     0.000 Y=   600.000 Z=     0.000 Contact point                 
+108 X=    57.861 Y=   506.209 Z=   125.173 Steering tie-rod on hub     S 
+109 X=    33.020 Y=   197.880 Z=   125.173 Steering tie-rod inboard    T 
+110 X=     0.000 Y=   613.227 Z=   203.193 Hub center                  H 
+111 X=     0.000 Y=   618.227 Z=   203.236 Hub center extension        K 
+112 X=     0.000 Y=   615.000 Z=     0.000 Static contact/Locked wheel N 
+113 X=     0.000 Y=   615.000 Z=     0.000 Contact point                 
  
 O_GEOMTY  Left side Track and other variables
-Track       1200.000   Tire_Diam    406.401   Rim_Width    177.800
+Track       1230.000   Tire_Diam    406.401   Rim_Width    177.800
 Camber        -0.500   Toe degs       0.000   Toe inch       0.000
 Tire bottom X     0.000Tire Bottom Z     0.000
  
 Left side auxiliary points:
-127 X=    -4.523 Y=    50.000 Z=   525.000 Spring upper on CHASSIS     U Want Spring
-128 X=    -4.523 Y=   200.000 Z=   600.000 Spring lower on SUSPENSION  V Want Spring
-129 X=     8.177 Y=   245.000 Z=   560.000 Pivot axis one              P 
-130 X=   -17.223 Y=   245.000 Z=   560.000 Pivot axis two              Q 
-131 X=    -4.523 Y=   275.000 Z=   600.000 Push/Pull rod pivot         M 
-132 X=    -4.523 Y=   500.000 Z=   325.000 Push/Pull rod attach        W 
-133 X=   -48.465 Y=   247.594 Z=   175.127 Anti-roll bar axis          X Want_Rollbar
-134 X=   -48.465 Y=     0.000 Z=   175.127 Anti-roll bar mid-point     Y Want_Rollbar
-135 X=    -3.465 Y=   247.594 Z=   175.127 Anti-roll bar blade         Z Want_Rollbar
-136 X=    -3.465 Y=   247.594 Z=   108.426 Anti-roll bar attach        R Want_Rollbar
+127 X=    -4.523 Y=    45.000 Z=   565.000 Spring upper on CHASSIS     U Want Spring
+128 X=    -4.523 Y=   215.000 Z=   635.000 Spring lower on SUSPENSION  V Want Spring
+129 X=     8.177 Y=   240.000 Z=   570.000 Pivot axis one              P 
+130 X=   -17.223 Y=   240.000 Z=   570.000 Pivot axis two              Q 
+131 X=    -4.523 Y=   295.000 Z=   605.000 Push/Pull rod pivot         M 
+132 X=    -4.523 Y=   515.000 Z=   325.000 Push/Pull rod attach        W 
+133 X=    73.000 Y=   260.000 Z=   470.000 Anti-roll bar axis          X Want_Rollbar
+134 X=    73.000 Y=    15.000 Z=   470.000 Anti-roll bar mid-point     Y Want_Rollbar
+135 X=    -3.465 Y=   280.000 Z=   470.000 Anti-roll bar blade         Z Want_Rollbar
+136 X=    -3.465 Y=   280.000 Z=   560.000 Anti-roll bar attach        R Want_Rollbar
 
 Data description:
 
