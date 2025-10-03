@@ -38,8 +38,8 @@
 "Pivot_axis_two_Y" = 240.0mm
 "Pivot_axis_two_Z" = 570.0mm
 "PushPull_rod_attach_X" = -4.523mm
-"PushPull_rod_attach_Y" = 515.0mm
-"PushPull_rod_attach_Z" = 310.0mm
+"PushPull_rod_attach_Y" = 512.0mm
+"PushPull_rod_attach_Z" = 316.0mm
 "PushPull_rod_pivot_X" = -4.523mm
 "PushPull_rod_pivot_Y" = 295.0mm
 "PushPull_rod_pivot_Z" = 605.0mm
@@ -55,11 +55,11 @@
 "Static_contactLocked_wheel_X" = 0.0mm
 "Static_contactLocked_wheel_Y" = 615.0mm
 "Static_contactLocked_wheel_Z" = 0.0mm
-"Steering_tierod_inboard_X" = 33.02mm
+"Steering_tierod_inboard_X" = 75.0mm
 "Steering_tierod_inboard_Y" = 182.88mm
 "Steering_tierod_inboard_Z" = 125.173mm
-"Steering_tierod_on_hub_X" = 33.02mm
-"Steering_tierod_on_hub_Y" = 506.209mm
+"Steering_tierod_on_hub_X" = 75.0mm
+"Steering_tierod_on_hub_Y" = 545.97mm
 "Steering_tierod_on_hub_Z" = 125.173mm
 "Upper_Aarm_forward_X" = 106.627mm
 "Upper_Aarm_forward_Y" = 231.244mm
@@ -110,8 +110,8 @@
 "REAR_Pivot_axis_two_Y" = 215.0mm
 "REAR_Pivot_axis_two_Z" = 441.2mm
 "REAR_PushPull_rod_attach_X" = -1537.8mm
-"REAR_PushPull_rod_attach_Y" = 522.391mm
-"REAR_PushPull_rod_attach_Z" = 307.927mm
+"REAR_PushPull_rod_attach_Y" = 519.391mm
+"REAR_PushPull_rod_attach_Z" = 313.927mm
 "REAR_PushPull_rod_pivot_X" = -1537.8mm
 "REAR_PushPull_rod_pivot_Y" = 250.79mm
 "REAR_PushPull_rod_pivot_Z" = 477.123mm
@@ -128,7 +128,7 @@
 "REAR_Static_contactLocked_wheel_Y" = 615.0mm
 "REAR_Static_contactLocked_wheel_Z" = 0.0mm
 "REAR_Steering_tierod_inboard_X" = -1547.7mm
-"REAR_Steering_tierod_inboard_Y" = 322.556mm
+"REAR_Steering_tierod_inboard_Y" = 267.556mm
 "REAR_Steering_tierod_inboard_Z" = 154.0mm
 "REAR_Steering_tierod_on_hub_X" = -1597.5mm
 "REAR_Steering_tierod_on_hub_Y" = 543.972mm
