@@ -1,7 +1,7 @@
 O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-rear (1).GEM
           OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-rear (1).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 10/2/2025 11:29:27 PM
+          Date & Time 10/3/2025 11:30:05 AM
 Rotation Point:
  97 X=     0.000 Y=    15.000 Z=     0.000 Rotation Point                
  
@@ -15,7 +15,7 @@ Right side points:
   6 X= -1533.790 Y=   250.575 Z=   260.211 Upper A-arm rearward        F 
  
   8 X= -1597.500 Y=   543.972 Z=   139.800 Steering tie-rod on hub     S 
-  9 X= -1547.700 Y=   322.556 Z=   154.000 Steering tie-rod inboard    T 
+  9 X= -1547.700 Y=   267.556 Z=   154.000 Steering tie-rod inboard    T 
  10 X= -1550.000 Y=   613.227 Z=   203.193 Hub center                  H 
  11 X= -1550.000 Y=   618.227 Z=   203.236 Hub center extension        K 
  12 X= -1550.000 Y=   615.000 Z=     0.000 Static contact/Locked wheel N 
@@ -33,7 +33,7 @@ Right side auxiliary points:
  29 X= -1527.800 Y=   215.000 Z=   441.200 Pivot axis one              P 
  30 X= -1547.800 Y=   215.000 Z=   441.200 Pivot axis two              Q 
  31 X= -1537.800 Y=   250.790 Z=   477.123 Push/Pull rod pivot         M 
- 32 X= -1537.800 Y=   522.391 Z=   307.927 Push/Pull rod attach        W 
+ 32 X= -1537.800 Y=   519.391 Z=   313.927 Push/Pull rod attach        W 
  33 X= -1572.800 Y=   259.790 Z=   353.918 Anti-roll bar axis          X Want_Rollbar
  34 X= -1572.800 Y=    15.000 Z=   353.918 Anti-roll bar mid-point     Y Want_Rollbar
  35 X= -1537.800 Y=   259.790 Z=   353.918 Anti-roll bar blade         Z Want_Rollbar
@@ -48,7 +48,7 @@ Left side points:
 106 X= -1533.790 Y=   250.575 Z=   260.211 Upper A-arm rearward        F 
  
 108 X= -1597.500 Y=   543.972 Z=   139.800 Steering tie-rod on hub     S 
-109 X= -1547.700 Y=   322.556 Z=   154.000 Steering tie-rod inboard    T 
+109 X= -1547.700 Y=   267.556 Z=   154.000 Steering tie-rod inboard    T 
 110 X= -1550.000 Y=   613.227 Z=   203.193 Hub center                  H 
 111 X= -1550.000 Y=   618.227 Z=   203.236 Hub center extension        K 
 112 X= -1550.000 Y=   615.000 Z=     0.000 Static contact/Locked wheel N 
@@ -65,7 +65,7 @@ Left side auxiliary points:
 129 X= -1527.800 Y=   215.000 Z=   441.200 Pivot axis one              P 
 130 X= -1547.800 Y=   215.000 Z=   441.200 Pivot axis two              Q 
 131 X= -1537.800 Y=   250.790 Z=   477.123 Push/Pull rod pivot         M 
-132 X= -1537.800 Y=   522.391 Z=   307.927 Push/Pull rod attach        W 
+132 X= -1537.800 Y=   519.391 Z=   313.927 Push/Pull rod attach        W 
 133 X= -1572.800 Y=   259.790 Z=   353.918 Anti-roll bar axis          X Want_Rollbar
 134 X= -1572.800 Y=    15.000 Z=   353.918 Anti-roll bar mid-point     Y Want_Rollbar
 135 X= -1537.800 Y=   259.790 Z=   353.918 Anti-roll bar blade         Z Want_Rollbar
