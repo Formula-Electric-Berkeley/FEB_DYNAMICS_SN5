@@ -1,7 +1,7 @@
 O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 10/8/2025 12:10:25 AM
+          Date & Time 10/8/2025 11:39:08 AM
 Rotation Point:
  97 X=     0.000 Y=    15.000 Z=     0.000 Rotation Point                
  
@@ -32,12 +32,12 @@ Right side auxiliary points:
  28 X=    -4.523 Y=   215.000 Z=   680.000 Spring lower on SUSPENSION  V Want Spring
  29 X=     8.177 Y=   240.000 Z=   615.000 Pivot axis one              P 
  30 X=   -17.223 Y=   240.000 Z=   615.000 Pivot axis two              Q 
- 31 X=    -4.523 Y=   315.000 Z=   650.000 Push/Pull rod pivot         M 
- 32 X=    -4.523 Y=   512.000 Z=   361.000 Push/Pull rod attach        W 
- 33 X=    76.535 Y=   260.000 Z=   535.000 Anti-roll bar axis          X Want_Rollbar
+ 31 X=    -4.523 Y=   309.000 Z=   650.000 Push/Pull rod pivot         M 
+ 32 X=    -4.523 Y=   507.000 Z=   318.000 Push/Pull rod attach        W 
+ 33 X=    76.535 Y=   280.000 Z=   535.000 Anti-roll bar axis          X Want_Rollbar
  34 X=    76.535 Y=     0.000 Z=   535.000 Anti-roll bar mid-point     Y Want_Rollbar
  35 X=    -3.465 Y=   280.000 Z=   535.000 Anti-roll bar blade         Z Want_Rollbar
- 36 X=    -3.465 Y=   280.000 Z=   650.000 Anti-roll bar attach        R Want_Rollbar
+ 36 X=    -3.465 Y=   280.000 Z=   615.000 Anti-roll bar attach        R Want_Rollbar
  
 Left side points:
 101 X=   138.937 Y=   192.626 Z=   111.081 Lower A-arm forward         A 
@@ -64,12 +64,12 @@ Left side auxiliary points:
 128 X=    -4.523 Y=   215.000 Z=   680.000 Spring lower on SUSPENSION  V Want Spring
 129 X=     8.177 Y=   240.000 Z=   615.000 Pivot axis one              P 
 130 X=   -17.223 Y=   240.000 Z=   615.000 Pivot axis two              Q 
-131 X=    -4.523 Y=   315.000 Z=   650.000 Push/Pull rod pivot         M 
-132 X=    -4.523 Y=   512.000 Z=   361.000 Push/Pull rod attach        W 
-133 X=    76.535 Y=   260.000 Z=   535.000 Anti-roll bar axis          X Want_Rollbar
+131 X=    -4.523 Y=   309.000 Z=   650.000 Push/Pull rod pivot         M 
+132 X=    -4.523 Y=   507.000 Z=   318.000 Push/Pull rod attach        W 
+133 X=    76.535 Y=   280.000 Z=   535.000 Anti-roll bar axis          X Want_Rollbar
 134 X=    76.535 Y=     0.000 Z=   535.000 Anti-roll bar mid-point     Y Want_Rollbar
 135 X=    -3.465 Y=   280.000 Z=   535.000 Anti-roll bar blade         Z Want_Rollbar
-136 X=    -3.465 Y=   280.000 Z=   650.000 Anti-roll bar attach        R Want_Rollbar
+136 X=    -3.465 Y=   280.000 Z=   615.000 Anti-roll bar attach        R Want_Rollbar
 
 Data description:
 
