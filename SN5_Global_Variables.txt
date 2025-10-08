@@ -1,8 +1,8 @@
 "Antiroll_bar_attach_R_Want_Rollbar_X" = -3.465mm
 "Antiroll_bar_attach_R_Want_Rollbar_Y" = 280.0mm
-"Antiroll_bar_attach_R_Want_Rollbar_Z" = 650.0mm
+"Antiroll_bar_attach_R_Want_Rollbar_Z" = 615.0mm
 "Antiroll_bar_axis_X_Want_Rollbar_X" = 76.535mm
-"Antiroll_bar_axis_X_Want_Rollbar_Y" = 260.0mm
+"Antiroll_bar_axis_X_Want_Rollbar_Y" = 280.0mm
 "Antiroll_bar_axis_X_Want_Rollbar_Z" = 535.0mm
 "Antiroll_bar_blade_Z_Want_Rollbar_X" = -3.465mm
 "Antiroll_bar_blade_Z_Want_Rollbar_Y" = 280.0mm
@@ -38,10 +38,10 @@
 "Pivot_axis_two_Y" = 240.0mm
 "Pivot_axis_two_Z" = 615.0mm
 "PushPull_rod_attach_X" = -4.523mm
-"PushPull_rod_attach_Y" = 512.0mm
-"PushPull_rod_attach_Z" = 361.0mm
+"PushPull_rod_attach_Y" = 507.0mm
+"PushPull_rod_attach_Z" = 318.0mm
 "PushPull_rod_pivot_X" = -4.523mm
-"PushPull_rod_pivot_Y" = 315.0mm
+"PushPull_rod_pivot_Y" = 309.0mm
 "PushPull_rod_pivot_Z" = 650.0mm
 "Rotation_Point_X" = 0.0mm
 "Rotation_Point_Y" = 15.0mm
