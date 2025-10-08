@@ -1,7 +1,7 @@
 O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 10/8/2025 11:39:08 AM
+          Date & Time 10/8/2025 12:26:22 PM
 Rotation Point:
  97 X=     0.000 Y=    15.000 Z=     0.000 Rotation Point                
  
@@ -14,8 +14,8 @@ Right side points:
   5 X=    -3.763 Y=   533.692 Z=   297.927 Upper ball joint            E 
   6 X=  -125.000 Y=   246.336 Z=   259.536 Upper A-arm rearward        F 
  
-  8 X=    75.000 Y=   545.970 Z=   169.000 Steering tie-rod on hub     S 
-  9 X=    75.000 Y=   182.880 Z=   167.625 Steering tie-rod inboard    T 
+  8 X=    60.000 Y=   554.578 Z=   169.000 Steering tie-rod on hub     S 
+  9 X=    60.000 Y=   182.880 Z=   167.625 Steering tie-rod inboard    T 
  10 X=     0.000 Y=   613.227 Z=   203.193 Hub center                  H 
  11 X=     0.000 Y=   618.227 Z=   203.236 Hub center extension        K 
  12 X=     0.000 Y=   615.000 Z=     0.000 Static contact/Locked wheel N 
@@ -47,8 +47,8 @@ Left side points:
 105 X=    -3.763 Y=   533.692 Z=   297.927 Upper ball joint            E 
 106 X=  -125.000 Y=   246.336 Z=   259.536 Upper A-arm rearward        F 
  
-108 X=    75.000 Y=   545.970 Z=   169.000 Steering tie-rod on hub     S 
-109 X=    75.000 Y=   182.880 Z=   167.625 Steering tie-rod inboard    T 
+108 X=    60.000 Y=   554.578 Z=   169.000 Steering tie-rod on hub     S 
+109 X=    60.000 Y=   182.880 Z=   167.625 Steering tie-rod inboard    T 
 110 X=     0.000 Y=   613.227 Z=   203.193 Hub center                  H 
 111 X=     0.000 Y=   618.227 Z=   203.236 Hub center extension        K 
 112 X=     0.000 Y=   615.000 Z=     0.000 Static contact/Locked wheel N 
