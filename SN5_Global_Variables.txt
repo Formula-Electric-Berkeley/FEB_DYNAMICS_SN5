@@ -55,11 +55,11 @@
 "Static_contactLocked_wheel_X" = 0.0mm
 "Static_contactLocked_wheel_Y" = 615.0mm
 "Static_contactLocked_wheel_Z" = 0.0mm
-"Steering_tierod_inboard_X" = 75.0mm
+"Steering_tierod_inboard_X" = 60.0mm
 "Steering_tierod_inboard_Y" = 182.88mm
 "Steering_tierod_inboard_Z" = 167.625mm
-"Steering_tierod_on_hub_X" = 75.0mm
-"Steering_tierod_on_hub_Y" = 545.97mm
+"Steering_tierod_on_hub_X" = 60.0mm
+"Steering_tierod_on_hub_Y" = 554.578mm
 "Steering_tierod_on_hub_Z" = 169.0mm
 "Upper_Aarm_forward_X" = 106.627mm
 "Upper_Aarm_forward_Y" = 246.336mm
