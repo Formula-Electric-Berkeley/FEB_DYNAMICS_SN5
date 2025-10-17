@@ -1,20 +1,20 @@
 O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-rear (1).GEM
           OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-rear (1).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 10/16/2025 10:03:40 PM
+          Date & Time 10/16/2025 10:16:05 PM
 Rotation Point:
  97 X=     0.000 Y=    15.000 Z=     0.000 Rotation Point                
  
 Right side points:
   0 X=     0.000 Y=     0.000 Z=     0.000 Origin coordinate system    O 
-  1 X= -1331.604 Y=   322.708 Z=   125.303 Lower A-arm forward         A 
+  1 X= -1331.604 Y=   322.708 Z=   124.935 Lower A-arm forward         A 
   2 X= -1547.700 Y=   543.972 Z=   108.443 Lower ball joint            B 
-  3 X= -1530.010 Y=   322.708 Z=   113.528 Lower A-arm rearward        C 
-  4 X= -1304.722 Y=   329.255 Z=   270.702 Upper A-arm forward         D 
+  3 X= -1530.010 Y=   327.708 Z=   113.160 Lower A-arm rearward        C 
+  4 X= -1304.722 Y=   329.255 Z=   270.363 Upper A-arm forward         D 
   5 X= -1553.470 Y=   533.690 Z=   297.957 Upper ball joint            E 
-  6 X= -1533.790 Y=   329.255 Z=   283.074 Upper A-arm rearward        F 
+  6 X= -1533.790 Y=   334.255 Z=   282.735 Upper A-arm rearward        F 
  
-  8 X= -1597.500 Y=   553.972 Z=   132.900 Steering tie-rod on hub     S 
+  8 X= -1597.500 Y=   558.972 Z=   132.900 Steering tie-rod on hub     S 
   9 X= -1547.700 Y=   322.000 Z=   153.000 Steering tie-rod inboard    T 
  10 X= -1550.000 Y=   613.227 Z=   203.193 Hub center                  H 
  11 X= -1550.000 Y=   618.227 Z=   203.236 Hub center extension        K 
@@ -40,14 +40,14 @@ Right side auxiliary points:
  36 X= -1537.800 Y=   369.790 Z=   421.200 Anti-roll bar attach        R Want_Rollbar
  
 Left side points:
-101 X= -1331.604 Y=   322.708 Z=   125.303 Lower A-arm forward         A 
+101 X= -1331.604 Y=   322.708 Z=   124.935 Lower A-arm forward         A 
 102 X= -1547.700 Y=   543.972 Z=   108.443 Lower ball joint            B 
-103 X= -1530.010 Y=   322.708 Z=   113.528 Lower A-arm rearward        C 
-104 X= -1304.722 Y=   329.255 Z=   270.702 Upper A-arm forward         D 
+103 X= -1530.010 Y=   327.708 Z=   113.160 Lower A-arm rearward        C 
+104 X= -1304.722 Y=   329.255 Z=   270.363 Upper A-arm forward         D 
 105 X= -1553.470 Y=   533.690 Z=   297.957 Upper ball joint            E 
-106 X= -1533.790 Y=   329.255 Z=   283.074 Upper A-arm rearward        F 
+106 X= -1533.790 Y=   334.255 Z=   282.735 Upper A-arm rearward        F 
  
-108 X= -1597.500 Y=   553.972 Z=   132.900 Steering tie-rod on hub     S 
+108 X= -1597.500 Y=   558.972 Z=   132.900 Steering tie-rod on hub     S 
 109 X= -1547.700 Y=   322.000 Z=   153.000 Steering tie-rod inboard    T 
 110 X= -1550.000 Y=   613.227 Z=   203.193 Hub center                  H 
 111 X= -1550.000 Y=   618.227 Z=   203.236 Hub center extension        K 
