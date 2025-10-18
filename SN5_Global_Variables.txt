@@ -51,13 +51,13 @@
 "REAR_Antiroll_bar_attach_R_Want_Rollbar_Z" = 421.2mm
 "REAR_Antiroll_bar_axis_X_Want_Rollbar_X" = -1607.8mm
 "REAR_Antiroll_bar_axis_X_Want_Rollbar_Y" = 369.79mm
-"REAR_Antiroll_bar_axis_X_Want_Rollbar_Z" = 353.918mm
+"REAR_Antiroll_bar_axis_X_Want_Rollbar_Z" = 333.918mm
 "REAR_Antiroll_bar_blade_Z_Want_Rollbar_X" = -1537.8mm
 "REAR_Antiroll_bar_blade_Z_Want_Rollbar_Y" = 369.79mm
-"REAR_Antiroll_bar_blade_Z_Want_Rollbar_Z" = 353.918mm
+"REAR_Antiroll_bar_blade_Z_Want_Rollbar_Z" = 333.918mm
 "REAR_Antiroll_bar_midpoint_Y_Want_Rollbar_X" = -1607.8mm
 "REAR_Antiroll_bar_midpoint_Y_Want_Rollbar_Y" = 0.0mm
-"REAR_Antiroll_bar_midpoint_Y_Want_Rollbar_Z" = 353.918mm
+"REAR_Antiroll_bar_midpoint_Y_Want_Rollbar_Z" = 333.918mm
 "REAR_Contact_point_X" = -1550.0mm
 "REAR_Contact_point_Y" = 615.0mm
 "REAR_Contact_point_Z" = 0.0mm
