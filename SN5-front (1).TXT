@@ -1,7 +1,7 @@
 O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 10/16/2025 9:35:09 PM
+          Date & Time 10/18/2025 4:05:05 PM
 Rotation Point:
  97 X=     0.000 Y=    15.000 Z=     0.000 Rotation Point                
  
@@ -28,7 +28,7 @@ Tire bottom X     0.000Tire Bottom Z     0.000
 Wheelbase   1592.000   Offset         0.000
  
 Right side auxiliary points:
- 27 X=     3.763 Y=   240.000 Z=   585.000 Spring upper on CHASSIS     U Want Spring
+ 27 X=     3.763 Y=   240.000 Z=   570.000 Spring upper on CHASSIS     U Want Spring
  28 X=     3.763 Y=   510.000 Z=   130.000 Spring lower on SUSPENSION  V Want Spring
  
 Left side points:
@@ -52,7 +52,7 @@ Camber        -0.500   Toe degs       0.000   Toe inch       0.000
 Tire bottom X     0.000Tire Bottom Z     0.000
  
 Left side auxiliary points:
-127 X=     3.763 Y=   240.000 Z=   585.000 Spring upper on CHASSIS     U Want Spring
+127 X=     3.763 Y=   240.000 Z=   570.000 Spring upper on CHASSIS     U Want Spring
 128 X=     3.763 Y=   510.000 Z=   130.000 Spring lower on SUSPENSION  V Want Spring
 
 Data description:
