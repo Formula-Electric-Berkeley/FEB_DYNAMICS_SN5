@@ -106,7 +106,7 @@
 "REAR_Steering_tierod_inboard_X" = -1545.1mm
 "REAR_Steering_tierod_inboard_Y" = 331.8mm
 "REAR_Steering_tierod_inboard_Z" = 153.0mm
-"REAR_Steering_tierod_on_hub_X" = -1597.5mm
+"REAR_Steering_tierod_on_hub_X" = -1607.5mm
 "REAR_Steering_tierod_on_hub_Y" = 558.972mm
 "REAR_Steering_tierod_on_hub_Z" = 132.9mm
 "REAR_Upper_Aarm_forward_X" = -1314.999mm
