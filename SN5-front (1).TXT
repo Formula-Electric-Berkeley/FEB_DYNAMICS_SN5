@@ -1,29 +1,29 @@
 O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 10/19/2025 1:29:49 PM
+          Date & Time 10/19/2025 5:21:39 PM
 Rotation Point:
  97 X=     0.000 Y=    15.000 Z=     0.000 Rotation Point                
  
 Right side points:
   0 X=     0.000 Y=     0.000 Z=     0.000 Origin coordinate system    O 
-  1 X=   138.937 Y=   207.336 Z=   108.408 Lower A-arm forward         A 
+  1 X=   138.937 Y=   207.336 Z=   108.483 Lower A-arm forward         A 
   2 X=     3.763 Y=   545.970 Z=   108.473 Lower ball joint            B 
-  3 X=  -150.000 Y=   207.336 Z=   122.411 Lower A-arm rearward        C 
-  4 X=   106.627 Y=   251.336 Z=   285.852 Upper A-arm forward         D 
+  3 X=  -150.000 Y=   207.336 Z=   122.326 Lower A-arm rearward        C 
+  4 X=   106.627 Y=   251.336 Z=   285.913 Upper A-arm forward         D 
   5 X=    -3.763 Y=   533.692 Z=   297.927 Upper ball joint            E 
-  6 X=  -111.130 Y=   251.336 Z=   273.654 Upper A-arm rearward        F 
+  6 X=  -111.130 Y=   251.336 Z=   273.594 Upper A-arm rearward        F 
  
   8 X=    60.000 Y=   554.578 Z=   174.461 Steering tie-rod on hub     S 
   9 X=    60.000 Y=   182.880 Z=   170.426 Steering tie-rod inboard    T 
- 10 X=     0.000 Y=   613.227 Z=   203.193 Hub center                  H 
- 11 X=     0.000 Y=   618.227 Z=   203.236 Hub center extension        K 
+ 10 X=     0.000 Y=   611.454 Z=   203.170 Hub center                  H 
+ 11 X=     0.000 Y=   616.453 Z=   203.257 Hub center extension        K 
  12 X=     0.000 Y=   615.000 Z=     0.000 Static contact/Locked wheel N 
  13 X=     0.000 Y=   615.000 Z=     0.000 Contact point                 
  
 O_GEOMTY  Right side Track and other variables
 Track       1230.000   Tire_Diam    406.401   Rim_Width    177.800
-Camber        -0.500   Toe degs       0.000   Toe inch       0.000
+Camber        -1.000   Toe degs       0.000   Toe inch       0.000
 Tire bottom X     0.000Tire Bottom Z     0.000
 Wheelbase   1592.000   Offset         0.000
  
@@ -32,23 +32,23 @@ Right side auxiliary points:
  28 X=     3.763 Y=   510.000 Z=   130.000 Spring lower on SUSPENSION  V Want Spring
  
 Left side points:
-101 X=   138.937 Y=   207.336 Z=   108.408 Lower A-arm forward         A 
+101 X=   138.937 Y=   207.336 Z=   108.483 Lower A-arm forward         A 
 102 X=     3.763 Y=   545.970 Z=   108.473 Lower ball joint            B 
-103 X=  -150.000 Y=   207.336 Z=   122.411 Lower A-arm rearward        C 
-104 X=   106.627 Y=   251.336 Z=   285.852 Upper A-arm forward         D 
+103 X=  -150.000 Y=   207.336 Z=   122.326 Lower A-arm rearward        C 
+104 X=   106.627 Y=   251.336 Z=   285.913 Upper A-arm forward         D 
 105 X=    -3.763 Y=   533.692 Z=   297.927 Upper ball joint            E 
-106 X=  -111.130 Y=   251.336 Z=   273.654 Upper A-arm rearward        F 
+106 X=  -111.130 Y=   251.336 Z=   273.594 Upper A-arm rearward        F 
  
 108 X=    60.000 Y=   554.578 Z=   174.461 Steering tie-rod on hub     S 
 109 X=    60.000 Y=   182.880 Z=   170.426 Steering tie-rod inboard    T 
-110 X=     0.000 Y=   613.227 Z=   203.193 Hub center                  H 
-111 X=     0.000 Y=   618.227 Z=   203.236 Hub center extension        K 
+110 X=     0.000 Y=   611.454 Z=   203.170 Hub center                  H 
+111 X=     0.000 Y=   616.453 Z=   203.257 Hub center extension        K 
 112 X=     0.000 Y=   615.000 Z=     0.000 Static contact/Locked wheel N 
 113 X=     0.000 Y=   615.000 Z=     0.000 Contact point                 
  
 O_GEOMTY  Left side Track and other variables
 Track       1230.000   Tire_Diam    406.401   Rim_Width    177.800
-Camber        -0.500   Toe degs       0.000   Toe inch       0.000
+Camber        -1.000   Toe degs       0.000   Toe inch       0.000
 Tire bottom X     0.000Tire Bottom Z     0.000
  
 Left side auxiliary points:
