@@ -24,10 +24,10 @@
 "Rotation_Point_Z" = 0.0mm
 "Spring_lower_on_SUSPENSION_V_Want_Spring_X" = 3.763mm
 "Spring_lower_on_SUSPENSION_V_Want_Spring_Y" = 510.0mm
-"Spring_lower_on_SUSPENSION_V_Want_Spring_Z" = 130.0mm
+"Spring_lower_on_SUSPENSION_V_Want_Spring_Z" = 132.5mm
 "Spring_upper_on_CHASSIS_U_Want_Spring_X" = 3.763mm
 "Spring_upper_on_CHASSIS_U_Want_Spring_Y" = 240.0mm
-"Spring_upper_on_CHASSIS_U_Want_Spring_Z" = 570.0mm
+"Spring_upper_on_CHASSIS_U_Want_Spring_Z" = 563.0mm
 "Static_contactLocked_wheel_X" = 0.0mm
 "Static_contactLocked_wheel_Y" = 615.0mm
 "Static_contactLocked_wheel_Z" = 0.0mm
@@ -87,7 +87,7 @@
 "REAR_Pivot_axis_two_Z" = 421.2mm
 "REAR_PushPull_rod_attach_X" = -1537.8mm
 "REAR_PushPull_rod_attach_Y" = 500.0mm
-"REAR_PushPull_rod_attach_Z" = 314.927mm
+"REAR_PushPull_rod_attach_Z" = 316.927mm
 "REAR_PushPull_rod_pivot_X" = -1537.8mm
 "REAR_PushPull_rod_pivot_Y" = 381.3mm
 "REAR_PushPull_rod_pivot_Z" = 471.523mm
@@ -95,7 +95,7 @@
 "REAR_Rotation_Point_Y" = 15.0mm
 "REAR_Rotation_Point_Z" = 0.0mm
 "REAR_Spring_lower_on_SUSPENSION_V_Want_Spring_X" = -1537.8mm
-"REAR_Spring_lower_on_SUSPENSION_V_Want_Spring_Y" = 280.422mm
+"REAR_Spring_lower_on_SUSPENSION_V_Want_Spring_Y" = 281.422mm
 "REAR_Spring_lower_on_SUSPENSION_V_Want_Spring_Z" = 484.7mm
 "REAR_Spring_upper_on_CHASSIS_U_Want_Spring_X" = -1537.8mm
 "REAR_Spring_upper_on_CHASSIS_U_Want_Spring_Y" = 60.0mm
@@ -106,7 +106,7 @@
 "REAR_Steering_tierod_inboard_X" = -1545.1mm
 "REAR_Steering_tierod_inboard_Y" = 331.8mm
 "REAR_Steering_tierod_inboard_Z" = 140.0mm
-"REAR_Steering_tierod_on_hub_X" = -1607.5mm
+"REAR_Steering_tierod_on_hub_X" = -1602.5mm
 "REAR_Steering_tierod_on_hub_Y" = 558.972mm
 "REAR_Steering_tierod_on_hub_Z" = 115.9mm
 "REAR_Upper_Aarm_forward_X" = -1314.999mm
