@@ -1,20 +1,20 @@
 O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-front (2).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 10/20/2025 11:53:51 PM
+          Date & Time 10/24/2025 3:04:19 PM
 Rotation Point:
  97 X=     0.000 Y=    15.000 Z=     0.000 Rotation Point                
  
 Right side points:
   0 X=     0.000 Y=     0.000 Z=     0.000 Origin coordinate system    O 
-  1 X=   138.937 Y=   207.336 Z=   108.483 Lower A-arm forward         A 
-  2 X=     3.763 Y=   545.970 Z=   108.473 Lower ball joint            B 
-  3 X=  -150.000 Y=   207.336 Z=   122.326 Lower A-arm rearward        C 
-  4 X=   106.627 Y=   251.336 Z=   285.913 Upper A-arm forward         D 
-  5 X=    -3.763 Y=   533.692 Z=   297.927 Upper ball joint            E 
-  6 X=  -111.130 Y=   251.336 Z=   273.594 Upper A-arm rearward        F 
+  1 X=   138.937 Y=   232.336 Z=    96.911 Lower A-arm forward         A 
+  2 X=     2.390 Y=   545.970 Z=   108.512 Lower ball joint            B 
+  3 X=  -150.000 Y=   232.336 Z=   110.754 Lower A-arm rearward        C 
+  4 X=   106.627 Y=   276.336 Z=   261.711 Upper A-arm forward         D 
+  5 X=    -7.533 Y=   533.692 Z=   297.856 Upper ball joint            E 
+  6 X=  -111.130 Y=   276.336 Z=   249.392 Upper A-arm rearward        F 
  
-  8 X=    60.000 Y=   554.578 Z=   174.461 Steering tie-rod on hub     S 
+  8 X=    57.787 Y=   554.578 Z=   203.760 Steering tie-rod on hub     S 
   9 X=    60.000 Y=   182.880 Z=   170.426 Steering tie-rod inboard    T 
  10 X=     0.000 Y=   611.454 Z=   203.170 Hub center                  H 
  11 X=     0.000 Y=   616.453 Z=   203.257 Hub center extension        K 
@@ -25,21 +25,21 @@ O_GEOMTY  Right side Track and other variables
 Track       1230.000   Tire_Diam    406.401   Rim_Width    177.800
 Camber        -1.000   Toe degs       0.000   Toe inch       0.000
 Tire bottom X     0.000Tire Bottom Z     0.000
-Wheelbase   1592.000   Offset         0.000
+Wheelbase   1550.000   Offset         0.000
  
 Right side auxiliary points:
- 27 X=     3.763 Y=   240.000 Z=   563.000 Spring upper on CHASSIS     U Want Spring
+ 27 X=     3.763 Y=   265.000 Z=   565.000 Spring upper on CHASSIS     U Want Spring
  28 X=     3.763 Y=   510.000 Z=   132.500 Spring lower on SUSPENSION  V Want Spring
  
 Left side points:
-101 X=   138.937 Y=   207.336 Z=   108.483 Lower A-arm forward         A 
-102 X=     3.763 Y=   545.970 Z=   108.473 Lower ball joint            B 
-103 X=  -150.000 Y=   207.336 Z=   122.326 Lower A-arm rearward        C 
-104 X=   106.627 Y=   251.336 Z=   285.913 Upper A-arm forward         D 
-105 X=    -3.763 Y=   533.692 Z=   297.927 Upper ball joint            E 
-106 X=  -111.130 Y=   251.336 Z=   273.594 Upper A-arm rearward        F 
+101 X=   138.937 Y=   232.336 Z=    96.911 Lower A-arm forward         A 
+102 X=     2.390 Y=   545.970 Z=   108.512 Lower ball joint            B 
+103 X=  -150.000 Y=   232.336 Z=   110.754 Lower A-arm rearward        C 
+104 X=   106.627 Y=   276.336 Z=   261.711 Upper A-arm forward         D 
+105 X=    -7.533 Y=   533.692 Z=   297.856 Upper ball joint            E 
+106 X=  -111.130 Y=   276.336 Z=   249.392 Upper A-arm rearward        F 
  
-108 X=    60.000 Y=   554.578 Z=   174.461 Steering tie-rod on hub     S 
+108 X=    57.787 Y=   554.578 Z=   203.760 Steering tie-rod on hub     S 
 109 X=    60.000 Y=   182.880 Z=   170.426 Steering tie-rod inboard    T 
 110 X=     0.000 Y=   611.454 Z=   203.170 Hub center                  H 
 111 X=     0.000 Y=   616.453 Z=   203.257 Hub center extension        K 
@@ -52,7 +52,7 @@ Camber        -1.000   Toe degs       0.000   Toe inch       0.000
 Tire bottom X     0.000Tire Bottom Z     0.000
  
 Left side auxiliary points:
-127 X=     3.763 Y=   240.000 Z=   563.000 Spring upper on CHASSIS     U Want Spring
+127 X=     3.763 Y=   265.000 Z=   565.000 Spring upper on CHASSIS     U Want Spring
 128 X=     3.763 Y=   510.000 Z=   132.500 Spring lower on SUSPENSION  V Want Spring
 
 Data description:
