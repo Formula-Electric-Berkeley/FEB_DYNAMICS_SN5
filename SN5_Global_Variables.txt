@@ -34,7 +34,7 @@
 "Steering_tierod_inboard_X" = 70.0mm
 "Steering_tierod_inboard_Y" = 182.88mm
 "Steering_tierod_inboard_Z" = 170.426mm
-"Steering_tierod_on_hub_X" = 41.582mm
+"Steering_tierod_on_hub_X" = 70.0mm
 "Steering_tierod_on_hub_Y" = 564.726mm
 "Steering_tierod_on_hub_Z" = 205.464mm
 "Upper_Aarm_forward_X" = 106.627mm
