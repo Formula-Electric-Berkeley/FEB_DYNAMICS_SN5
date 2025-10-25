@@ -22,10 +22,10 @@
 "Rotation_Point_X" = 0.0mm
 "Rotation_Point_Y" = 15.0mm
 "Rotation_Point_Z" = 0.0mm
-"Spring_lower_on_SUSPENSION_V_Want_Spring_X" = 3.763mm
+"Spring_lower_on_SUSPENSION_V_Want_Spring_X" = -1.4mm
 "Spring_lower_on_SUSPENSION_V_Want_Spring_Y" = 510.0mm
 "Spring_lower_on_SUSPENSION_V_Want_Spring_Z" = 132.5mm
-"Spring_upper_on_CHASSIS_U_Want_Spring_X" = 3.763mm
+"Spring_upper_on_CHASSIS_U_Want_Spring_X" = -1.4mm
 "Spring_upper_on_CHASSIS_U_Want_Spring_Y" = 255.0mm
 "Spring_upper_on_CHASSIS_U_Want_Spring_Z" = 565.0mm
 "Static_contactLocked_wheel_X" = 0.0mm
