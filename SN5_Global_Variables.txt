@@ -105,7 +105,7 @@
 "REAR_Static_contactLocked_wheel_Z" = 0.0mm
 "REAR_Steering_tierod_inboard_X" = -1545.1mm
 "REAR_Steering_tierod_inboard_Y" = 331.8mm
-"REAR_Steering_tierod_inboard_Z" = 133.0mm
+"REAR_Steering_tierod_inboard_Z" = 136.0mm
 "REAR_Steering_tierod_on_hub_X" = -1600.0mm
 "REAR_Steering_tierod_on_hub_Y" = 558.972mm
 "REAR_Steering_tierod_on_hub_Z" = 122.0mm
