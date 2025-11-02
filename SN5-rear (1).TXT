@@ -1,7 +1,7 @@
 O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-rear (1).GEM
           OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-rear (1).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 11/2/2025 1:51:20 PM
+          Date & Time 11/2/2025 2:01:54 PM
 Rotation Point:
  97 X=     0.000 Y=    15.000 Z=     0.000 Rotation Point                
  
@@ -37,7 +37,7 @@ Right side auxiliary points:
  33 X= -1607.800 Y=   359.790 Z=   333.918 Anti-roll bar axis          X Want_Rollbar
  34 X= -1607.800 Y=     0.000 Z=   333.918 Anti-roll bar mid-point     Y Want_Rollbar
  35 X= -1537.800 Y=   359.790 Z=   333.918 Anti-roll bar blade         Z Want_Rollbar
- 36 X= -1537.800 Y=   359.790 Z=   421.200 Anti-roll bar attach        R Want_Rollbar
+ 36 X= -1537.800 Y=   355.790 Z=   421.200 Anti-roll bar attach        R Want_Rollbar
  
 Left side points:
 101 X= -1331.604 Y=   322.708 Z=   113.156 Lower A-arm forward         A 
@@ -69,7 +69,7 @@ Left side auxiliary points:
 133 X= -1607.800 Y=   359.790 Z=   333.918 Anti-roll bar axis          X Want_Rollbar
 134 X= -1607.800 Y=     0.000 Z=   333.918 Anti-roll bar mid-point     Y Want_Rollbar
 135 X= -1537.800 Y=   359.790 Z=   333.918 Anti-roll bar blade         Z Want_Rollbar
-136 X= -1537.800 Y=   359.790 Z=   421.200 Anti-roll bar attach        R Want_Rollbar
+136 X= -1537.800 Y=   355.790 Z=   421.200 Anti-roll bar attach        R Want_Rollbar
 
 Data description:
 
