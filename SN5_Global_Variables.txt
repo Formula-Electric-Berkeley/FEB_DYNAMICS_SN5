@@ -69,10 +69,10 @@
 "REAR_Hub_center_extension_Z" = 203.257mm
 "REAR_Lower_Aarm_forward_X" = -1331.604mm
 "REAR_Lower_Aarm_forward_Y" = 322.708mm
-"REAR_Lower_Aarm_forward_Z" = 113.156mm
+"REAR_Lower_Aarm_forward_Z" = 112.929mm
 "REAR_Lower_Aarm_rearward_X" = -1539.01mm
 "REAR_Lower_Aarm_rearward_Y" = 329.708mm
-"REAR_Lower_Aarm_rearward_Z" = 109.381mm
+"REAR_Lower_Aarm_rearward_Z" = 109.154mm
 "REAR_Lower_ball_joint_X" = -1522.7mm
 "REAR_Lower_ball_joint_Y" = 543.972mm
 "REAR_Lower_ball_joint_Z" = 113.443mm
@@ -89,7 +89,7 @@
 "REAR_PushPull_rod_attach_Y" = 500.0mm
 "REAR_PushPull_rod_attach_Z" = 308.927mm
 "REAR_PushPull_rod_pivot_X" = -1537.8mm
-"REAR_PushPull_rod_pivot_Y" = 373.2mm
+"REAR_PushPull_rod_pivot_Y" = 372.9mm
 "REAR_PushPull_rod_pivot_Z" = 470.4mm
 "REAR_Rotation_Point_X" = 0.0mm
 "REAR_Rotation_Point_Y" = 15.0mm
@@ -111,10 +111,10 @@
 "REAR_Steering_tierod_on_hub_Z" = 122.0mm
 "REAR_Upper_Aarm_forward_X" = -1310.99mm
 "REAR_Upper_Aarm_forward_Y" = 329.255mm
-"REAR_Upper_Aarm_forward_Z" = 248.888mm
+"REAR_Upper_Aarm_forward_Z" = 248.679mm
 "REAR_Upper_Aarm_rearward_X" = -1539.0mm
 "REAR_Upper_Aarm_rearward_Y" = 336.255mm
-"REAR_Upper_Aarm_rearward_Z" = 261.26mm
-"REAR_Upper_ball_joint_X" = -1558.47mm
+"REAR_Upper_Aarm_rearward_Z" = 261.051mm
+"REAR_Upper_ball_joint_X" = -1550.0mm
 "REAR_Upper_ball_joint_Y" = 533.69mm
 "REAR_Upper_ball_joint_Z" = 292.957mm
