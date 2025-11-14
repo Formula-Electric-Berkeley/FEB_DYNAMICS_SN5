@@ -1,7 +1,7 @@
 O_GEOMTY  PrintFile   C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-rear (1).GEM
           OriginalFN  C:\Users\Evan Griffith\FEB SN5 Global\FEB_DYNAMICS_SN5\SN5-rear (1).GEM
           Description Double A-Arm, Push-rod, swaybar Demo - Standard units
-          Date & Time 11/11/2025 5:29:00 PM
+          Date & Time 11/13/2025 5:15:35 PM
 Rotation Point:
  97 X=     0.000 Y=    15.000 Z=     0.000 Rotation Point                
  
@@ -34,10 +34,10 @@ Right side auxiliary points:
  30 X= -1547.800 Y=   315.000 Z=   421.200 Pivot axis two              Q 
  31 X= -1537.800 Y=   378.900 Z=   471.900 Push/Pull rod pivot         M 
  32 X= -1537.800 Y=   506.000 Z=   310.427 Push/Pull rod attach        W 
- 33 X= -1607.800 Y=   355.790 Z=   333.918 Anti-roll bar axis          X Want_Rollbar
+ 33 X= -1607.800 Y=   353.790 Z=   333.918 Anti-roll bar axis          X Want_Rollbar
  34 X= -1607.800 Y=     0.000 Z=   333.918 Anti-roll bar mid-point     Y Want_Rollbar
- 35 X= -1537.800 Y=   355.790 Z=   333.918 Anti-roll bar blade         Z Want_Rollbar
- 36 X= -1537.800 Y=   355.790 Z=   421.200 Anti-roll bar attach        R Want_Rollbar
+ 35 X= -1537.800 Y=   353.790 Z=   333.918 Anti-roll bar blade         Z Want_Rollbar
+ 36 X= -1537.800 Y=   353.790 Z=   421.200 Anti-roll bar attach        R Want_Rollbar
  
 Left side points:
 101 X= -1331.604 Y=   322.708 Z=   112.927 Lower A-arm forward         A 
@@ -66,10 +66,10 @@ Left side auxiliary points:
 130 X= -1547.800 Y=   315.000 Z=   421.200 Pivot axis two              Q 
 131 X= -1537.800 Y=   378.900 Z=   471.900 Push/Pull rod pivot         M 
 132 X= -1537.800 Y=   506.000 Z=   310.427 Push/Pull rod attach        W 
-133 X= -1607.800 Y=   355.790 Z=   333.918 Anti-roll bar axis          X Want_Rollbar
+133 X= -1607.800 Y=   353.790 Z=   333.918 Anti-roll bar axis          X Want_Rollbar
 134 X= -1607.800 Y=     0.000 Z=   333.918 Anti-roll bar mid-point     Y Want_Rollbar
-135 X= -1537.800 Y=   355.790 Z=   333.918 Anti-roll bar blade         Z Want_Rollbar
-136 X= -1537.800 Y=   355.790 Z=   421.200 Anti-roll bar attach        R Want_Rollbar
+135 X= -1537.800 Y=   353.790 Z=   333.918 Anti-roll bar blade         Z Want_Rollbar
+136 X= -1537.800 Y=   353.790 Z=   421.200 Anti-roll bar attach        R Want_Rollbar
 
 Data description:
 
